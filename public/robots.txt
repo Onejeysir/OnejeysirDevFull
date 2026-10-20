@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Après déploiement, ajoute : Sitemap: https://ton-domaine/sitemap.xml
